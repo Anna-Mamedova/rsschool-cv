@@ -51,7 +51,9 @@ function findEvenIndex(arr){
 ## Education
 
 **Master of Economics**
+
 National Technical University "Kharkiv Polytechnic Institute"
+
 *09/2012 - 02/2018*
 ### Courses:
 * SheCodes
