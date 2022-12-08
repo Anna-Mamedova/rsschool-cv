@@ -1,6 +1,5 @@
 # Anna Mamedova
 
-
 ## Contacts
 
 * **Location:** Kharkiv, Ukaraine
